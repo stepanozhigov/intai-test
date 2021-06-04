@@ -1,0 +1,6 @@
+plugin:
+    name: 'stepanozhigov.usergroups::lang.plugin.name'
+    description: 'Adds User Group Column to Users table'
+    author: 'stepan ozhigov'
+    icon: oc-icon-users
+    homepage: ''
