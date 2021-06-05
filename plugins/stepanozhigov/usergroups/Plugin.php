@@ -29,8 +29,6 @@ class Plugin extends PluginBase
                     'select' => 'name'
                 ]
             ]);
-
-            // dd($list);
         });
     }
 }
