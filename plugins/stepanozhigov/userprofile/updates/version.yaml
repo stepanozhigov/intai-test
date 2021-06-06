@@ -1,0 +1,4 @@
+1.0.1: First version of userprofile
+1.0.2:
+  - Creates profile table
+  - create_user_profiles_table.php
